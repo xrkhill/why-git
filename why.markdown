@@ -22,3 +22,13 @@
 ## GitHub
 
 * It's easier to get access to many of the Open Source projects we use (Cake, Rails, jQuery, Spree, and plugins for all of the above)
+
+## Links
+
+http://www.conifersystems.com/2008/11/05/the-benefits-of-small-commits/
+
+http://en.wikipedia.org/wiki/Distributed_revision_control
+
+http://joelonsoftware.com/items/2010/03/17.html
+
+http://gitref.org/

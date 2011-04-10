@@ -32,3 +32,5 @@ http://en.wikipedia.org/wiki/Distributed_revision_control
 http://joelonsoftware.com/items/2010/03/17.html
 
 http://gitref.org/
+
+http://whygitisbetterthanx.com/

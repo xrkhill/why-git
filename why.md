@@ -1,5 +1,11 @@
 # Why I think we should switch to Git
 
+## Local
+
+* You don't have to wait for the central repo to be created before commiting.
+* Fast: no need to wait for the network for most operations
+* The entire project history is local
+
 ## Inexpensive Local Branches
 
 * Branching and merging is easy

@@ -34,3 +34,9 @@ http://joelonsoftware.com/items/2010/03/17.html
 http://gitref.org/
 
 http://whygitisbetterthanx.com/
+
+### Windows Clients
+
+http://code.google.com/p/tortoisegit/
+
+http://www.syntevo.com/smartgit/index.html

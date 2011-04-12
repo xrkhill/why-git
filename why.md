@@ -20,6 +20,10 @@
 * lets you work on "urgent" matters, and then get back to what you were in the middle of
 * easy way to move code around branches???
 
+## Bisect
+
+* Helps you track down bugs by finding commit where a bug was introduced
+
 ## Speed
 
 * most operations are local, so no need to wait for the network

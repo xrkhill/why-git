@@ -25,18 +25,18 @@
 
 ## Links
 
-http://www.conifersystems.com/2008/11/05/the-benefits-of-small-commits/
+[Using small commits](http://www.conifersystems.com/2008/11/05/the-benefits-of-small-commits/)
 
-http://en.wikipedia.org/wiki/Distributed_revision_control
+[Distributed revision control](http://en.wikipedia.org/wiki/Distributed_revision_control)
 
-http://joelonsoftware.com/items/2010/03/17.html
+[Biggest advance in ten years](http://joelonsoftware.com/items/2010/03/17.html)
 
-http://gitref.org/
+[Simple Git reference](http://gitref.org/)
 
-http://whygitisbetterthanx.com/
+[Why Git is better than SVN](http://whygitisbetterthanx.com/)
 
 ### Windows Clients
 
-http://code.google.com/p/tortoisegit/
+[TortouseGit](http://code.google.com/p/tortoisegit/)
 
-http://www.syntevo.com/smartgit/index.html
+[SmartGit](http://www.syntevo.com/smartgit/index.html)

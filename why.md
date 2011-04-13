@@ -24,6 +24,10 @@
 
 * Helps you track down bugs by finding commit where a bug was introduced
 
+## Ammend
+
+* Forgot to add a file to your last commit? Don't worry... ammend your commit!
+
 ## Speed
 
 * most operations are local, so no need to wait for the network

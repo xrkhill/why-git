@@ -24,9 +24,9 @@
 
 * Helps you track down bugs by finding commit where a bug was introduced
 
-## Ammend
+## Amend
 
-* Forgot to add a file to your last commit? Don't worry... ammend your commit!
+* Forgot to add a file to your last commit? Don't worry... amend your commit!
 
 ## Speed
 
